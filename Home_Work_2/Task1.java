@@ -29,14 +29,4 @@ public class Task1 {
     // }
 
 
-    // public static boolean ifPalindrom(String args) {
-    //     for (int i = 0, j = args.length() - 1; i < j; i++, j--)
-    //     {
-    //         if (args.charAt(i) != args.charAt(j)) {
-    //             return false;
-    //         }
-    //     }
- 
-    //     return true;
-    // }
 }
